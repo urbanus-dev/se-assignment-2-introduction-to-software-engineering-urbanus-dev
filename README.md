@@ -5,9 +5,9 @@ Assignment: Introduction to Software Engineering
 Instructions:
 Answer the following questions based on your understanding of software engineering concepts. Provide detailed explanations and examples where appropriate.
 
-Questions:
+**Questions:**
 
-#Define Software Engineering:
+**Question 1  Define Software Engineering:**
 
 Software engineering is the systematic application of engineering principles, methods, and tools to the development and maintenance of high-quality software systems. It involves the design, development, testing, deployment, and maintenance of software products.In other words we can say that software engineering the branch of computer science that deals with the design, development, testing, and maintenance of software applications. This discipline ensures that software is reliable, efficient, scalable, and meets the requirements of users and stakeholders through a structured and disciplined approach.Examples of software engineering projects include developing operating systems (e.g., Windows, macOS), web applications (e.g., Facebook, Google), mobile apps (e.g., Instagram, Uber), and embedded systems (e.g., automotive software, loT devices
 
@@ -15,7 +15,7 @@ Software engineering is the systematic application of engineering principles, me
 #DEFINATION :
 Software engineering is the systematic application of engineering principles, methods, and tools to the development and maintenance of high-quality software systems. It involves the design, development, testing, deployment, and maintenance of software products. This discipline ensures that software is reliable, efficient, scalable, and meets the requirements of users and stakeholders through a structured and disciplined approach. By integrating various engineering concepts, software engineering addresses both the technical and managerial aspects of software creation, fostering innovation while maintaining rigorous quality standards.In other words we can say that software engineering the branch of computer science that deals with the design, development, testing, and maintenance of software applications.
 
-#Differences between software engineering and traditional programming:
+**Question 2     Differences between software engineering and traditional programming:**
 
 **Traditional Programming** focuses on writing code to carry out specified operations and address issues is the main emphasis of programming. Its main focus is on putting algorithms and features into practice.
 
@@ -26,10 +26,12 @@ Software engineering is the systematic application of engineering principles, me
 **Software engineering**involves steps like planning, analysis, design, implementation, testing, and maintenance and is methodical and process-oriented. It employs software development lifecycle management techniques such as Waterfall, Scrum, and Agile
 
 
-#Software Development Life Cycle (SDLC):
+**QUESTION 3  Software Development Life Cycle (SDLC):**
 
 The Software Development Life Cycle (SDLC) is a structured process that enables the production of high-quality, low-cost software, in the shortest possible production time. The goal of the SDLC is to produce superior software that meets and exceeds all customer expectations and demands. The SDLC defines and outlines a detailed plan with stages, or phases, that each encompass their own process and deliverables. Adherence to the SDLC enhances development speed and minimizes project risks and costs associated with alternative methods of production.
+
 **Importance of SDLC:**
+
 i.It provides a standardized framework that defines activities and deliverables
 
 ii. It aids in project planning, estimating, and scheduling
@@ -70,7 +72,8 @@ Releasing the software to the production environment for use by end-users. This 
 Ongoing support and maintenance of the software to fix bugs, add new features, and improve performance. This phase ensures the software remains functional and relevant over time
 
 
-#Agile vs. Waterfall Models:
+**Question 4  Agile vs. Waterfall Models:**
+
 **Agile methodology** is a project management approach that prioritizes cross-functional collaboration and continuous improvement. It divides projects into smaller phases and guides teams through cycles of planning, execution, and evaluation.
 
 **Approach:** Iterative and incremental.
@@ -100,7 +103,7 @@ Ongoing support and maintenance of the software to fix bugs, add new features, a
 
 **Project Phases:** Each phase must be completed before the next begins.
 
-#Compare and contrast the Agile and Waterfall models of software development. What are the key differences, and in what scenarios might each be preferred?
+**Question 5 Compare and contrast the Agile and Waterfall models of software development. What are the key differences, and in what scenarios might each be preferred?**
 
 **Key Differences:**
 **Approach:**
@@ -142,10 +145,13 @@ Suitable for projects with well-defined requirements and clear, unchanging speci
 Preferred for projects where thorough documentation and upfront planning are critical.
 Effective for smaller projects where requirements are straightforward and unlikely to change.
 
-#Requirements Engineering:
-#What is requirements engineering? Describe the process and its importance in the software development lifecycle.
+**Question 6 Requirements Engineering:**
+
+What is requirements engineering? Describe the process and its importance in the software development lifecycle.
 Requirements engineering is the process of defining, documenting, and maintaining the requirements for a software system.This process is crucial as it ensures that the final software product meets the needs and expectations of stakeholders, reducing the risk of costly changes later in the development lifecycle
+
 **stages**
+
 **Elicitation:**  Gathering requirements from stakeholders through interviews, surveys, and observation.
 
 **Analysis:** Evaluating requirements for feasibility and consistency.
@@ -156,7 +162,7 @@ Requirements engineering is the process of defining, documenting, and maintainin
 
 **Management:** Managing changes to requirements as the project evolves.
 
-#Software Design Principles:
+**Question 7 Software Design Principles:**
 #Explain the concept of modularity in software design. How does it improve maintainability and scalability of software systems?
 Modularity in software design refers to dividing a software system into distinct, independent modules that can be developed, tested, and maintained separately. 
 Modularity promotes better management of complexity and enhances the flexibility of software systems 
@@ -167,7 +173,8 @@ It improves :
 
 **Reusability:**  Modules can be reused across different projects, reducing development time and effort.
 
-#Testing in Software Engineering:
+**Question 8 Testing in Software Engineering:**
+
 #Describe the different levels of software testing (unit testing, integration testing, system testing, acceptance testing). Why is testing crucial in software development?
 Testing is crucial because it helps identify and fix errors early, ensuring the software is reliable, functional, and performs as expected
 
@@ -180,7 +187,8 @@ Testing is crucial because it helps identify and fix errors early, ensuring the 
 **Acceptance Testing:** Testing the software from the user's perspective to ensure it meets their needs and is ready for deployment.
 
 
-#Version Control Systems:
+**Question 9 Version Control Systems:**
+
 #What are version control systems, and why are they important in software development? Give examples of popular version control systems and their features.
 Version control systems (VCS) are tools that help manage changes to source code over time.These systems enhance collaboration, improve project management, and ensure code integrity throughout the development process.
 
@@ -198,7 +206,7 @@ Examples of popular VCS include:
 
 (ii)Subversion (SVN): Centralized VCS that provides a simple model for version control with features like atomic commits and versioned directories.
 
-#Software Project Management:
+**Question 10 Software Project Management:**
 #Discuss the role of a software project manager. What are some key responsibilities and challenges faced in managing software projects?
 
 **Key Responsibilities**
@@ -289,7 +297,8 @@ Preventive and corrective maintenance can identify and resolve issues early, red
 **Maintains Compatibility:**
 As hardware, operating systems, and other software evolve, maintenance ensures that the software remains compatible with these changes, preventing obsolescence.
 
-#Ethical Considerations in Software Engineering:
+**Question 11 Ethical Considerations in Software Engineering:**
+
 #What are some ethical issues that software engineers might face? How can software engineers ensure they adhere to ethical standards in their work?
 Software engineers can adhere to ethical standards by following professional codes of ethics, such as those provided by the ACM and IEEE, and by committing to continuous education on ethical practice
 **Ethical issues in software engineering include:**
