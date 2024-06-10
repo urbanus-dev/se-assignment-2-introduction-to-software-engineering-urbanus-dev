@@ -124,9 +124,13 @@ Effective for smaller projects where requirements are straightforward and unlike
 Requirements engineering is the process of defining, documenting, and maintaining the requirements for a software system.This process is crucial as it ensures that the final software product meets the needs and expectations of stakeholders, reducing the risk of costly changes later in the development lifecycle
 **stages**
 **Elicitation:**  Gathering requirements from stakeholders through interviews, surveys, and observation.
+
 **Analysis:** Evaluating requirements for feasibility and consistency.
+
 **Specification:** Documenting the requirements in a detailed and precise manner.
+
 **Validation:** Ensuring the requirements accurately reflect the needs of stakeholders.
+
 **Management:** Managing changes to requirements as the project evolves.
 
 #Software Design Principles:
@@ -135,7 +139,9 @@ Modularity in software design refers to dividing a software system into distinct
 Modularity promotes better management of complexity and enhances the flexibility of software systems 
 It improves :
 **Maintainability:** Modules can be updated or replaced independently without affecting the entire system, making maintenance easier.
+
 **Scalability:**  New functionality can be added by creating new modules, facilitating easier system expansion.
+
 **Reusability:**  Modules can be reused across different projects, reducing development time and effort.
 
 #Testing in Software Engineering:
@@ -143,8 +149,11 @@ It improves :
 Testing is crucial because it helps identify and fix errors early, ensuring the software is reliable, functional, and performs as expected
 
 **Unit Testing:** Testing individual components or functions to ensure they work correctly.
+
 **Integration Testing:** Testing the interaction between integrated units or components to detect interface defects.
+
 **System Testing:** Testing the complete and integrated software system to verify that it meets specified requirements.
+
 **Acceptance Testing:** Testing the software from the user's perspective to ensure it meets their needs and is ready for deployment.
 
 
@@ -155,7 +164,9 @@ Version control systems (VCS) are tools that help manage changes to source code 
 They are important because they:
 
 **Track Changes:** Maintain a history of changes, making it easy to revert to previous versions if needed.
+
 **Collaboration:** Allow multiple developers to work on the same project simultaneously without conflicts.
+
 **Branching and Merging:**Enable developers to work on different features or fixes in parallel and merge their changes seamlessly.
 
 Examples of popular VCS include:
@@ -227,11 +238,15 @@ Software maintenance involves modifying and updating software after its initial 
 
 **maintenance activities.**
 Corrective Maintenance: Fixing bugs and errors.
+
 Adaptive Maintenance: Updating software to work in new or changing environments.
+
 Perfective Maintenance: Enhancing software features and performance.
+
 Preventive Maintenance: Making changes to prevent future issues.
 
 **Importance of Maintenance in the Software Lifecycle**
+
 **Ensures Longevity and Usability:**
 Maintenance activities keep software relevant and functional over time, accommodating changes in user requirements, technology, and business processes.
 
@@ -254,9 +269,13 @@ As hardware, operating systems, and other software evolve, maintenance ensures t
 #What are some ethical issues that software engineers might face? How can software engineers ensure they adhere to ethical standards in their work?
 Software engineers can adhere to ethical standards by following professional codes of ethics, such as those provided by the ACM and IEEE, and by committing to continuous education on ethical practice
 **Ethical issues in software engineering include:**
+
 **Privacy:** Ensuring user data is protected and not misused.
+
 **Security:** Developing secure software to protect against cyber threats.
+
 **Intellectual Property:**Respecting copyright and licensing agreements.
+
 **Transparency:** Being honest about software capabilities and limitations.
 
 
